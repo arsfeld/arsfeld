@@ -2,16 +2,12 @@
 
 I'm a senior software architect, technical lead, and engineering manager based in Montreal, Canada. With over a decade of experience in software development, I specialize in architecting scalable solutions, leading cross-functional teams, and building robust products across various industries.
 
-## 💼 Experience Highlights
+## Open Source Projects
 
-- **Senior Software Architect** at ACCESS Newswire (2024–Present)  
-  Re-architecting products around a Service Hub concept using **Kubernetes** and microservices. Building solutions with **.NET** and **Laravel**.
-- **Programming & DevOps Team Lead** at Ubisoft (2020–2024)  
-  Established and led a DevOps team for Rainbow Six Mobile & Online Services. Implemented observability, streamlined deployments with **ArgoCD**, and migrated core systems from **Node.js** to **.NET** and from **Kafka** to cloud-native architecture.
-- **Technical Lead** at Valital (2019–2020)  
-  Implemented agile practices, CI/CD pipelines with **GitHub Actions**, and developed full-stack applications with **Django/Python** and **React**.
-- **Consultant & Engineering Manager** at Zenika, AlayaCare, Capgemini, Mentel, and Aptor Software  
-  Led development of mobile payment solutions, managed engineering teams, and delivered scalable platforms using **Kotlin/Android**, **Python/Vue**, **Laravel/AngularJS**, and **Symfony/PHP**.
+- **[mydia](https://github.com/getmydia/mydia)** - Your personal media companion, built with **Phoenix LiveView** and **Elixir**. Creator and maintainer. (354 stars)
+- **[reel](https://github.com/arsfeld/reel)** - A modern GTK frontend for Plex and other media servers, built in **Rust**. Creator and maintainer. (186 stars)
+- **[nixos](https://github.com/arsfeld/nixos)** - Personal **NixOS** configuration for reproducible system management.
+- **[cv](https://github.com/arsfeld/cv)** - This resume, built with **Typst** and automated via GitHub Actions.
 
 ## 🛠️ Tech Stack & Tools
 

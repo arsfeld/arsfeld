@@ -4,8 +4,8 @@ I'm a senior software architect, technical lead, and engineering manager based i
 
 ## Open Source Projects
 
-- **[mydia](https://github.com/getmydia/mydia)** - Your personal media companion, built with **Phoenix LiveView** and **Elixir**. Creator and maintainer. (354 stars)
-- **[reel](https://github.com/arsfeld/reel)** - A modern GTK frontend for Plex and other media servers, built in **Rust**. Creator and maintainer. (186 stars)
+- **[mydia](https://github.com/getmydia/mydia)** ![Mydia](https://img.shields.io/github/stars/getmydia/mydia) - Your personal media companion, built with **Phoenix LiveView** and **Elixir**. Creator and maintainer. 
+- **[reel](https://github.com/arsfeld/reel)** ![Reel](https://img.shields.io/github/stars/arsfeld/reel) - A modern GTK frontend for Plex and other media servers, built in **Rust**. Creator and maintainer. 
 - **[nixos](https://github.com/arsfeld/nixos)** - Personal **NixOS** configuration for reproducible system management.
 - **[cv](https://github.com/arsfeld/cv)** - My resume, built with **Typst** and automated via GitHub Actions.
 
@@ -16,19 +16,8 @@ I'm a senior software architect, technical lead, and engineering manager based i
 - **DevOps**: Kubernetes, ArgoCD, Docker, GitHub Actions  
 - **Cloud & Data**: Kafka, Microservices, CI/CD
 
-## 🌍 Languages
-
-- Portuguese (native)
-- English (fluent)
-- French (fluent)
-- Spanish (fluent)
-- German (conversational)
-
 ## 📫 Get in Touch
 
 - **Email**: [alex@rosenfeld.one](mailto:alex@rosenfeld.one)
-- **Homepage**: [arsfeld.dev](https://arsfeld.dev)
-- **GitHub**: [arsfeld](https://github.com/arsfeld)
+- **Homepage**: [arsfeld.dev](https://blog.arsfeld.dev)
 - **LinkedIn**: [a-rosenfeld](https://linkedin.com/in/a-rosenfeld)
-- **Location**: Montreal, Canada
-

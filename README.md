@@ -5,7 +5,6 @@ I'm a senior software architect, technical lead, and engineering manager based i
 ## Open Source Projects
 
 - **[mydia](https://github.com/getmydia/mydia)** ![Mydia](https://img.shields.io/github/stars/getmydia/mydia) - Your personal media companion, built with **Phoenix LiveView** and **Elixir**. Creator and maintainer. 
-- **[reel](https://github.com/arsfeld/reel)** ![Reel](https://img.shields.io/github/stars/arsfeld/reel) - A modern GTK frontend for Plex and other media servers, built in **Rust**. Creator and maintainer. 
 - **[nixos](https://github.com/arsfeld/nixos)** - Personal **NixOS** configuration for reproducible system management.
 - **[cv](https://github.com/arsfeld/cv)** - My resume, built with **Typst** and automated via GitHub Actions.
 
